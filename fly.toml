@@ -1,0 +1,7 @@
+app = "your-bot-name"
+primary_region = "lax"
+
+[build]
+
+[[vm]]
+  size = "shared-cpu-1x"
